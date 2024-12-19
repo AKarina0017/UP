@@ -1,0 +1,519 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\windowsformsapp1\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:windowsformsapp1\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\windowsformsapp1\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:windowsformsapp1\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\windowsformsapp1\\operator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:windowsformsapp1\\operator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\windowsformsapp1\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:windowsformsapp1\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\windowsformsapp1\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:windowsformsapp1\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\BD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:WindowsFormsApp1\\BD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\RedactOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:WindowsFormsApp1\\RedactOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\windowsformsapp1\\redactorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:windowsformsapp1\\redactorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\windowsformsapp1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:windowsformsapp1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\windowsformsapp1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:windowsformsapp1\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\windowsformsapp1\\buyrepairparts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:windowsformsapp1\\buyrepairparts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\windowsformsapp1\\buyrepairparts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:windowsformsapp1\\buyrepairparts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\windowsformsapp1\\addcommment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:windowsformsapp1\\addcommment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\windowsformsapp1\\addcommment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:windowsformsapp1\\addcommment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\AddOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:WindowsFormsApp1\\AddOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\windowsformsapp1\\addorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:windowsformsapp1\\addorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\windowsformsapp1\\registrationorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:windowsformsapp1\\registrationorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|c:\\users\\karin\\desktop\\\u0443\u043F\\\u0443\u043F \u0438 \u043F\u043F\\\u0443\u043F \u0438 \u043F\u043F\\windowsformsapp1111\\windowsformsapp1\\windowsformsapp1\\windowsformsapp1\\registrationorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:windowsformsapp1\\registrationorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\windowsformsapp1\\redactordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:windowsformsapp1\\redactordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:WindowsFormsApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\windowsformsapp1\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:windowsformsapp1\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\windowsformsapp1\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:windowsformsapp1\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\windowsformsapp1\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:windowsformsapp1\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\RedactOrderManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:WindowsFormsApp1\\RedactOrderManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\windowsformsapp1\\master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:windowsformsapp1\\master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\windowsformsapp1\\registrationorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:windowsformsapp1\\registrationorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\windowsformsapp1\\addcommment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FE4BBCB-7ABF-4E88-B1ED-59C28E721DE2}|WindowsFormsApp1\\RepairTech.csproj|solutionrelative:windowsformsapp1\\addcommment.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32DA8229-F8DE-4B6B-AE50-E7F754F30674}|SQLForm\\SQLForm.csproj|C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\sqlform\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32DA8229-F8DE-4B6B-AE50-E7F754F30674}|SQLForm\\SQLForm.csproj|solutionrelative:sqlform\\bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Manager.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Manager.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Manager.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Manager.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\Manager.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:19:24.178Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RedactOrder.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\RedactOrder.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\RedactOrder.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\RedactOrder.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\RedactOrder.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswKIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:21:40.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Login.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Login.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Login.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Login.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAewLUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:07:30.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Operator.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Operator.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Operator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\Operator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:19:26.147Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operator.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Operator.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Operator.Designer.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Operator.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Operator.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBACAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:33:04.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Operator.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Operator.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Operator.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Operator.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Operator.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAANcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:12:42.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Login.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Login.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:02:37.775Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Manager.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Manager.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Manager.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Manager.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAewE8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:19:24.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BD.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\BD.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\BD.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\BD.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\BD.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwGwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:08:15.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RedactOrder.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\RedactOrder.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\RedactOrder.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\RedactOrder.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\RedactOrder.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:15:08.799Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Client.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Client.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Client.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Client.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\Client.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:01:45.612Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Client.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Client.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Client.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Client.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwIQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:01:47.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BuyRepairParts.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\BuyRepairParts.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\BuyRepairParts.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\BuyRepairParts.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\BuyRepairParts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:22:30.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BuyRepairParts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\BuyRepairParts.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\BuyRepairParts.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\BuyRepairParts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\BuyRepairParts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:22:29.344Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddCommment.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\AddCommment.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AddCommment.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\AddCommment.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\AddCommment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:25:32.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddCommment.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\AddCommment.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AddCommment.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\AddCommment.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\AddCommment.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:25:31.657Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddOrder.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\AddOrder.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AddOrder.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\AddOrder.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\AddOrder.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwCYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:08:01.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddOrder.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\AddOrder.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AddOrder.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\AddOrder.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\AddOrder.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:24:21.89Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegistrationOrder.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\RegistrationOrder.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\RegistrationOrder.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\RegistrationOrder.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\RegistrationOrder.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:11:48.999Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegistrationOrder.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\RegistrationOrder.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\RegistrationOrder.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\RegistrationOrder.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\RegistrationOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACABAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:11:49.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T08:02:58.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RedactOrderManager.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\RedactOrderManager.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\RedactOrderManager.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\RedactOrderManager.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\RedactOrderManager.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:13:32.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Master.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Master.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Master.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Master.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\Master.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:17:58.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Master.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Master.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Master.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Master.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:18:00.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Login.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Login.Designer.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAcwJ4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:20:26.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RedactOrderManager.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\RedactOrderManager.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\RedactOrderManager.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\RedactOrderManager.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\RedactOrderManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:12:20.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Master.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Master.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Master.Designer.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\Master.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Master.Designer.cs",
+              "ViewState": "AgIAAE4BAAAAAAAAAAAvwFkBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:40:02.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddCommment.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\AddCommment.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AddCommment.Designer.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\AddCommment.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\AddCommment.Designer.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAUwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:28:58.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegistrationOrder.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\RegistrationOrder.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\RegistrationOrder.Designer.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\WindowsFormsApp1\\RegistrationOrder.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\RegistrationOrder.Designer.cs",
+              "ViewState": "AgIAAD8BAAAAAAAAAAAUwFIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:32:57.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BD.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\SQLForm\\BD.cs",
+              "RelativeDocumentMoniker": "SQLForm\\BD.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\\u0423\u041F\\\u0423\u041F \u0438 \u041F\u041F\\\u0423\u041F \u0438 \u041F\u041F\\WindowsFormsApp1111\\WindowsFormsApp1\\WindowsFormsApp1\\SQLForm\\BD.cs",
+              "RelativeToolTip": "SQLForm\\BD.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:12:30.695Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

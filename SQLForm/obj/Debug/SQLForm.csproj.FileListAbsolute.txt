@@ -1,0 +1,12 @@
+E:\УП практика\WindowsFormsApp1\SQLForm\bin\Debug\SQLForm.dll
+E:\УП практика\WindowsFormsApp1\SQLForm\bin\Debug\SQLForm.pdb
+E:\УП практика\WindowsFormsApp1\SQLForm\obj\Debug\SQLForm.csproj.AssemblyReference.cache
+E:\УП практика\WindowsFormsApp1\SQLForm\obj\Debug\SQLForm.csproj.CoreCompileInputs.cache
+E:\УП практика\WindowsFormsApp1\SQLForm\obj\Debug\SQLForm.dll
+E:\УП практика\WindowsFormsApp1\SQLForm\obj\Debug\SQLForm.pdb
+F:\УП практика\WindowsFormsApp1\SQLForm\bin\Debug\SQLForm.dll
+F:\УП практика\WindowsFormsApp1\SQLForm\bin\Debug\SQLForm.pdb
+F:\УП практика\WindowsFormsApp1\SQLForm\obj\Debug\SQLForm.csproj.AssemblyReference.cache
+F:\УП практика\WindowsFormsApp1\SQLForm\obj\Debug\SQLForm.csproj.CoreCompileInputs.cache
+F:\УП практика\WindowsFormsApp1\SQLForm\obj\Debug\SQLForm.dll
+F:\УП практика\WindowsFormsApp1\SQLForm\obj\Debug\SQLForm.pdb

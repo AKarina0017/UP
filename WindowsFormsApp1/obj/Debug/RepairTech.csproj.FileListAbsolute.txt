@@ -1,0 +1,85 @@
+E:\УП практика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\УП практика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\УП практика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RepairTech.csproj.AssemblyReference.cache
+E:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddCommment.resources
+E:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BuyRepairParts.resources
+E:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Client.resources
+E:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+E:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Master.resources
+E:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Operator.resources
+E:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RedactOrder.resources
+E:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistrationOrder.resources
+E:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RepairTech.csproj.GenerateResource.cache
+E:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RepairTech.csproj.CoreCompileInputs.cache
+E:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddOrder.resources
+F:\УП практика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\УП практика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\УП практика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RepairTech.csproj.AssemblyReference.cache
+F:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddCommment.resources
+F:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddOrder.resources
+F:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BuyRepairParts.resources
+F:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Client.resources
+F:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+F:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Master.resources
+F:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Operator.resources
+F:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RedactOrder.resources
+F:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistrationOrder.resources
+F:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RepairTech.csproj.GenerateResource.cache
+F:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RepairTech.csproj.CoreCompileInputs.cache
+F:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\УП практика\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MessagingToolkit.QRCode.dll
+E:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RepairTech.csproj.Up2Date
+E:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Manager.resources
+E:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RedactOrderManager.resources
+F:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Manager.resources
+F:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RedactOrderManager.resources
+F:\УП практика\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RepairTech.csproj.CopyComplete
+C:\Users\vikto\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\vikto\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\vikto\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\vikto\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RepairTech.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddCommment.resources
+C:\Users\vikto\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddOrder.resources
+C:\Users\vikto\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BuyRepairParts.resources
+C:\Users\vikto\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Client.resources
+C:\Users\vikto\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\vikto\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Manager.resources
+C:\Users\vikto\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Master.resources
+C:\Users\vikto\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Operator.resources
+C:\Users\vikto\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\vikto\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RedactOrder.resources
+C:\Users\vikto\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RedactOrderManager.resources
+C:\Users\vikto\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistrationOrder.resources
+C:\Users\vikto\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RepairTech.csproj.GenerateResource.cache
+C:\Users\vikto\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RepairTech.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RepairTech.csproj.Up2Date
+C:\Users\vikto\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\vikto\OneDrive\Рабочий стол\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\karin\Desktop\УП\УП и ПП\УП и ПП\WindowsFormsApp1111\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RepairTech.csproj.AssemblyReference.cache
+C:\Users\karin\Desktop\УП\УП и ПП\УП и ПП\WindowsFormsApp1111\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\karin\Desktop\УП\УП и ПП\УП и ПП\WindowsFormsApp1111\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\karin\Desktop\УП\УП и ПП\УП и ПП\WindowsFormsApp1111\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddComment.resources
+C:\Users\karin\Desktop\УП\УП и ПП\УП и ПП\WindowsFormsApp1111\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddOrder.resources
+C:\Users\karin\Desktop\УП\УП и ПП\УП и ПП\WindowsFormsApp1111\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BuyRepairParts.resources
+C:\Users\karin\Desktop\УП\УП и ПП\УП и ПП\WindowsFormsApp1111\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Client.resources
+C:\Users\karin\Desktop\УП\УП и ПП\УП и ПП\WindowsFormsApp1111\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\karin\Desktop\УП\УП и ПП\УП и ПП\WindowsFormsApp1111\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Manager.resources
+C:\Users\karin\Desktop\УП\УП и ПП\УП и ПП\WindowsFormsApp1111\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Master.resources
+C:\Users\karin\Desktop\УП\УП и ПП\УП и ПП\WindowsFormsApp1111\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Operator.resources
+C:\Users\karin\Desktop\УП\УП и ПП\УП и ПП\WindowsFormsApp1111\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\karin\Desktop\УП\УП и ПП\УП и ПП\WindowsFormsApp1111\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RedactOrder.resources
+C:\Users\karin\Desktop\УП\УП и ПП\УП и ПП\WindowsFormsApp1111\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RedactOrderManager.resources
+C:\Users\karin\Desktop\УП\УП и ПП\УП и ПП\WindowsFormsApp1111\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistrationOrder.resources
+C:\Users\karin\Desktop\УП\УП и ПП\УП и ПП\WindowsFormsApp1111\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RepairTech.csproj.GenerateResource.cache
+C:\Users\karin\Desktop\УП\УП и ПП\УП и ПП\WindowsFormsApp1111\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RepairTech.csproj.CoreCompileInputs.cache
+C:\Users\karin\Desktop\УП\УП и ПП\УП и ПП\WindowsFormsApp1111\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\karin\Desktop\УП\УП и ПП\УП и ПП\WindowsFormsApp1111\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\karin\Desktop\УП\УП и ПП\УП и ПП\WindowsFormsApp1111\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\karin\Desktop\УП\УП и ПП\УП и ПП\WindowsFormsApp1111\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RepairTech.csproj.Up2Date
